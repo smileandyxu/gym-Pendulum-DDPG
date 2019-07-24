@@ -1,6 +1,6 @@
 # Project
 
-**gym-Pendulum-v0** with **DDPG** by **@smileandyxu (3180106206 徐正浩)**
+**gym-Pendulum-v0** with **DDPG** by **@smileandyxu**
 
 ## Project Introduction
 
